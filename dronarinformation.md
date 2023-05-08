@@ -2,7 +2,7 @@
 
 DJI Mini 2 - EU
 
-`<Ditt namn>`
+`<Ditt namn>`  
 Registreringsnummer för drönaroperatör:  
 Personen som flyger denna drönare måste ha full uppmärksamhet på luftfartyget. Luftfartyget som flygs väger mindre än 250g och opereras enligt alla nedan angivna drönarlagar.
 
